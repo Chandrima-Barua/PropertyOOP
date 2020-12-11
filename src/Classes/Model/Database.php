@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Envy-m4
- * Date: 7/13/2017
- * Time: 8:08 PM.
- */
 
 namespace App\Classes\Model;
 
