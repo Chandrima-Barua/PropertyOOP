@@ -1,0 +1,4 @@
+1. Set up your local server with xampp/wamp
+2. Create a database in phpmyadmin named "property"
+3.Import the property.sql file from the database directory
+4. Hit the url "http://localhost/PropertyOOP/views/index.php"
