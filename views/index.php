@@ -38,9 +38,9 @@
 
     <?php
     require_once '../vendor/autoload.php';
-    use App\Classes\RealEstate\RealEstate;
+    use App\Classes\Property\property;
 
-    $real_estate = new RealEstate();
+    $real_estate = new property();
     $allData = $real_estate->index();
 
     foreach ($allData as $oneData) {

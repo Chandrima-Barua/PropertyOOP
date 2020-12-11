@@ -20,8 +20,8 @@
 <!-- Php code block 1 of 2 starts -->
 <?php
 require_once ('../vendor/autoload.php');
-use App\Classes\RealEstate\RealEstate;
-$real_estate = new RealEstate();
+use App\Classes\Property\property;
+$real_estate = new property();
 $singleData = $real_estate->viewSingleData($_GET['id']);
 ?>
 <!-- Php code block 1 of 2 ends -->

@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Classes\RealEstate;
+namespace App\Classes\Property;
 
 use App\Classes\Model\Database;
 use PDO;
 
-class RealEstate extends Database
+class Property extends Database
 {
     private $id;
     private $name;
