@@ -1,8 +1,8 @@
-<?php include'header.php';?>
+<?php include 'header.php'; ?>
 <!-- banner -->
 <div class="inside-banner">
   <div class="container"> 
-    <span class="pull-right"><a href="#">Home</a> / About Us</span>
+    <span class="pull-right"><a href="index.php">Home</a> / About Us</span>
     <h2>About Us</h2>
 </div>
 </div>
@@ -25,4 +25,4 @@
 </div>
 </div>
 
-<?php include'footer.php';?>
+<?php include 'footer.php'; ?>

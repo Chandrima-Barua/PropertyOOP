@@ -34,6 +34,7 @@ CREATE TABLE `properties` (
   `description` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+
 --
 -- Dumping data for table `real_estate`
 --
